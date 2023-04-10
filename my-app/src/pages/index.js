@@ -42,6 +42,9 @@ export default function Home() {
           </div>
         </div>
         <Button></Button>
+        <Input></Input>
+        <Video></Video>
+        
         <div className={styles.center}>
           <Image
             className={styles.logo}
